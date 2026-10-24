@@ -35,4 +35,3 @@ def two_sum(numbers, target)
   end
   return nil
 end
-binding.irb
